@@ -1,6 +1,6 @@
 # Pacman_Beta
 
-A new Flutter project.
+First project working with Android Studio and Flutter. The point of this app was to learn new tools for app development. 
 
 ## Getting Started
 
