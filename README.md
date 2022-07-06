@@ -2,7 +2,7 @@
 
 First project working with Android Studio and Flutter. The point of this app was to learn new tools for app development. 
 
-## Getting Started
+# Dependencies
 
 This project is a starting point for a Flutter application.
 
