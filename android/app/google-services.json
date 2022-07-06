@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "193139042395",
+    "project_id": "signin-8c078",
+    "storage_bucket": "signin-8c078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193139042395:android:1724d98dc3c51f1afc377e",
+        "android_client_info": {
+          "package_name": "com.example.temp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193139042395-m1fgi9n2c8a63kn2dlrbi39ov83h3393.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rDzwbj9P7-hxywU0ycyN0ryOs13lGa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193139042395-m1fgi9n2c8a63kn2dlrbi39ov83h3393.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193139042395:android:7d66652d62cd9a30fc377e",
+        "android_client_info": {
+          "package_name": "pacman.beta.pacman_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193139042395-m1fgi9n2c8a63kn2dlrbi39ov83h3393.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rDzwbj9P7-hxywU0ycyN0ryOs13lGa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193139042395-m1fgi9n2c8a63kn2dlrbi39ov83h3393.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
