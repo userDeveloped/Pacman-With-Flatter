@@ -14,4 +14,4 @@
   cloud_firestore: ^3.1.18 
 
 
-<p><img align="right" alt="gif" src="https://github.com/userDeveloped/Andriod-Flutter/blob/main/gif/demo.gif" width="2500" height="500" /></p>
+<p><img align="right" src="https://github.com/userDeveloped/Andriod-Flutter/blob/main/gif/demo.gif" width="2500" height="500" /></p>
