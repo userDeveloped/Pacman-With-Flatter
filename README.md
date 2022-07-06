@@ -1,3 +1,6 @@
+
+<p>img align="right" src="https://github.com/userDeveloped/Andriod-Flutter/blob/main/gif/demo.gif" width="500" height="320" /><\p>
+
 # Pacman_Beta
 
 #### - First project working with Android Studio and Flutter. The point of this app was to learn new tools for app development. 
