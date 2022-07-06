@@ -1,5 +1,4 @@
 
-<p>img align="right" src="https://github.com/userDeveloped/Andriod-Flutter/blob/main/gif/demo.gif" width="500" height="320" /><\p>
 
 # Pacman_Beta
 
