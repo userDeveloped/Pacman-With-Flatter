@@ -1,4 +1,4 @@
-# pacman_beta
+# Pacman_Beta
 
 A new Flutter project.
 
